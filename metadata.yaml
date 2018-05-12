@@ -1,0 +1,43 @@
+_repo: Key-Out-of-Time_19651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - Norton, Alice Mary
+    - Norton, Andre Alice
+    - North, Andrew
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: Far in the future, the planet Hawaika is a tropical paradise settled
+  by a small group of descendants of modern-day Hawaiians and Polynesians. But Ross
+  Murdock and Gordon Ashe are not there to languish on the planet's beautiful beaches
+  -- they want to establish a portal to the past. Will they succeed in their quest
+  to find out what became of the ancient civilizations that once thrived on Hawaika?
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2006-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19651'
+  lccn: '63010861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ashe, Gordon (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Trehern, Kerara (Fictitious character) -- Fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Fox, Travis (Fictitious character) -- Fiction'
+title: Key Out of Time
+url: http://www.gutenberg.org/ebooks/19651
